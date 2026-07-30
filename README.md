@@ -1,5 +1,7 @@
 <h1> Linux Migration Compass </h1>
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/65947d68-51e6-461d-85a0-d4714004e756" /img> 
+
 <h2> 
 <bold>The Linux Migration Compass</bold> is a comprehensive guide designed to help users new to Linux transition seamlessly to the Pop!_OS 22.04 Linux distribution. Pop!_OS by system76 is a Linux distribution known for its polished interface, performance optimizations and easy handling of hybrid graphics. The guide will cover everything from installation to advanced usage, ensuring that you have all the information you need to make the switch, and familiarize with Linux successfully. </h2>
 
